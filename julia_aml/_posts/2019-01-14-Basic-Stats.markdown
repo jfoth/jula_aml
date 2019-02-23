@@ -8,4 +8,4 @@ This Course took the student through the concepts of basic statistics, including
 
 The course work followed the learning in Open Statistics, Third Edition [(PDF available for download)] (https://leanpub.com/openintro-statistics) and covered probability, inferencs, multiple regression and touched on linear regression.
 
->Move to week 3 of the course: [Landuse Change and Modelling](http://localhost:4000/update/2019/01/21/Landuse-Change-Modelling.html)
+>Move to week 3 of the course: [Landuse Change and Modelling](http://localhost:4000/julia_aml/update/2019/01/21/Landuse-Change-Modelling.html)
